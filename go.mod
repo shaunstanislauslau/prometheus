@@ -61,7 +61,7 @@ require (
 	github.com/spaolacci/murmur3 v1.1.0 // indirect
 	go.mongodb.org/mongo-driver v1.0.4 // indirect
 	golang.org/x/crypto v0.0.0-20190701094942-4def268fd1a4 // indirect
-	golang.org/x/net v0.0.0-20190724013045-ca1201d0de80
+	golang.org/x/net v0.0.0-20190812203447-cdfb69ac37fc
 	golang.org/x/oauth2 v0.0.0-20190604053449-0f29369cfe45
 	golang.org/x/sync v0.0.0-20190423024810-112230192c58
 	golang.org/x/sys v0.0.0-20190813064441-fde4db37ae7a
@@ -73,9 +73,9 @@ require (
 	gopkg.in/alecthomas/kingpin.v2 v2.2.6
 	gopkg.in/fsnotify/fsnotify.v1 v1.4.7
 	gopkg.in/inf.v0 v0.9.1 // indirect
-	gopkg.in/yaml.v2 v2.2.2
+	gopkg.in/yaml.v2 v2.2.4
 	k8s.io/api v0.0.0-20190813020757-36bff7324fb7
-	k8s.io/apimachinery v0.0.0-20190809020650-423f5d784010
+	k8s.io/apimachinery v0.15.7
 	k8s.io/client-go v12.0.0+incompatible
 	k8s.io/klog v0.4.0
 	k8s.io/kube-openapi v0.0.0-20190722073852-5e22f3d471e6 // indirect
